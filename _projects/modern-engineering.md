@@ -14,7 +14,7 @@ slug: ''
 ---
 ## Overview
 
-Resident Professors Peter Tiernan and Kelly Brewer have collaborated over the last 3 years with leading professionals in the continental US to develop a modern curriculum for Engineering students.
+Resident Professors Peter Griffin and Brian Brewer have collaborated over the last 3 years with leading professionals in the continental US to develop a modern curriculum for Engineering students.
 
 ## Editions
 
